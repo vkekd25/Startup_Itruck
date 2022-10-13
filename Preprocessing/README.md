@@ -1,4 +1,4 @@
-##**전처리**
+**전처리**
 
 registration_preprocessing.ipynb - 영업용현황 전처리파일  
 new_preprocessing.ipynb - 신규등록 전처리파일  
