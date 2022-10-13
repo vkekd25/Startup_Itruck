@@ -19,8 +19,6 @@
 
 ![image](https://user-images.githubusercontent.com/102206023/195521021-3995256e-e826-45c0-8b71-921b7339cc58.png)
 
-![image](https://user-images.githubusercontent.com/102206023/195521108-88dea22c-01b4-4513-857b-7d275c88a1f4.png)
-
 **3. 프로젝트 배경 및 목적**
 
 - **배경**  
