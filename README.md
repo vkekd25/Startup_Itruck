@@ -6,7 +6,8 @@
 - Preprocessing: 전처리
 - Bigquery: 테블로 데이터로 사용했던 쿼리문
 
-### **프로젝트 보고서**
+
+# 프로젝트 보고서
 
 ![image](https://user-images.githubusercontent.com/102206023/195520842-8eea5eb1-81a0-4fa3-b777-a7c27a52398f.png)
 
