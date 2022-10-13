@@ -32,4 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/102206023/195517553-fa58bcd9-c842-4951-ba96-91bab993a196.png)
 
+발표영상 링크:  
 
+![Video Label](http://img.youtube.com/vi/G7dGv7ONPPA/0.jpg)  
+(https://youtu.be/OKH7KK5J3Gg)
