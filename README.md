@@ -8,7 +8,8 @@
 
 ### **프로젝트 보고서**
 
-![image](https://user-images.githubusercontent.com/102206023/195519292-28b1ceb0-b091-4f6f-b3f4-040087e5dccb.png)
+![image](https://user-images.githubusercontent.com/102206023/195520842-8eea5eb1-81a0-4fa3-b777-a7c27a52398f.png)
+
 
 **1. 프로젝트 제목**
 
@@ -16,9 +17,9 @@
 
 **2. 프로젝트 개요**
 
-![image](https://user-images.githubusercontent.com/102206023/195519698-fb17cb4e-6010-4698-b356-bb4d7a9ff783.png)
+![image](https://user-images.githubusercontent.com/102206023/195521021-3995256e-e826-45c0-8b71-921b7339cc58.png)
 
-![image](https://user-images.githubusercontent.com/102206023/195519938-e82e1110-0ec1-481a-9547-71fb61229664.png)
+![image](https://user-images.githubusercontent.com/102206023/195521108-88dea22c-01b4-4513-857b-7d275c88a1f4.png)
 
 **3. 프로젝트 배경 및 목적**
 
