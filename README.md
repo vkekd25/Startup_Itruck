@@ -34,5 +34,5 @@
 
 발표영상 링크:  
 
-![Video Label](http://img.youtube.com/vi/G7dGv7ONPPA/0.jpg)  
+![Video Label](http://img.youtube.com/vi/OKH7KK5J3Gg/0.jpg)  
 (https://youtu.be/OKH7KK5J3Gg)
