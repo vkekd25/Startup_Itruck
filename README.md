@@ -30,7 +30,7 @@
 
 **4. 팀 구성 및 역할**
 
-![image](https://user-images.githubusercontent.com/102206023/195517553-fa58bcd9-c842-4951-ba96-91bab993a196.png)
+![image](https://user-images.githubusercontent.com/101457515/223946000-aa7cfcba-90e6-4b9c-a819-9d28bbbddaf7.png)
 
 **5. 발표영상 링크**:  
 
