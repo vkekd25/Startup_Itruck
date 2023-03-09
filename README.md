@@ -30,7 +30,7 @@
 
 **4. 팀 구성 및 역할**  
 
-<img width="530" height 600 alt="스크린샷 2023-03-09 오후 4 04 26" src="https://user-images.githubusercontent.com/101457515/223946219-b5ec1d33-01d4-40b3-937d-df6c4d7d8a16.png">  
+<img width="530" height = "600" align = "left" alt="스크린샷 2023-03-09 오후 4 04 26" src="https://user-images.githubusercontent.com/101457515/223946219-b5ec1d33-01d4-40b3-937d-df6c4d7d8a16.png">  
 
 **5. 발표영상 링크**:  
 
