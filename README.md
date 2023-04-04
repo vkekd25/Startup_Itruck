@@ -9,7 +9,7 @@
 
 ### 프로젝트 보고서
 
-![image](https://user-images.githubusercontent.com/102206023/195520842-8eea5eb1-81a0-4fa3-b777-a7c27a52398f.png)
+![image](https://user-images.githubusercontent.com/101457515/229721298-d6389f8d-c775-4de7-9779-645083df1437.png)
 
 
 **1. 프로젝트 제목**
