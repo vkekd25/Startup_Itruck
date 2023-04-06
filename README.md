@@ -9,7 +9,7 @@
 
 ### 프로젝트 보고서
 
-<img width="600" alt="스크린샷 2023-04-04 오후 4 36 12" src="https://user-images.githubusercontent.com/101457515/229721496-1a9a5090-6792-4258-82dc-c764367bc88c.png">
+
 
 
 **1. 프로젝트 제목**
@@ -30,7 +30,7 @@
 
 **4. 팀 구성 및 역할**  
 
-<img width="580" height = "600" alt="스크린샷 2023-03-09 오후 4 04 26" src="https://user-images.githubusercontent.com/101457515/223946219-b5ec1d33-01d4-40b3-937d-df6c4d7d8a16.png">
+<img width="600" alt="스크린샷 2023-04-04 오후 4 36 12" src="https://user-images.githubusercontent.com/101457515/229721496-1a9a5090-6792-4258-82dc-c764367bc88c.png">
 
 
 **5. 발표영상 링크**:   
